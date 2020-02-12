@@ -1,2 +1,3 @@
 # BorrowedCode
-A collection of code that I've collected and modified along the way.
+A repository of useful code that I've collected and modified along the way. 
+Most of it I can't take credit for.
